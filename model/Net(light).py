@@ -6,7 +6,7 @@ from timm.models.layers import trunc_normal_
 from MSRA import RAMOptimized
 import numpy as np
 from model.HolisticAttention import HA
-from SRA import SRA  # 假设已经正确导入SRA模块
+from SRA import SRA
 from thop import profile, clever_format
 import time
 import torch
