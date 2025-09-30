@@ -56,8 +56,14 @@ For running inference and testing the model, use the following command:
 RGB-SOD.pth：https://drive.google.com/file/d/1zjmgbNCOmKfMzWEPSr5jxjwl2stfTThO/view?usp=sharing
 
 
-
 RGBD-SOD.pth:https://drive.google.com/file/d/1iZC3cSgpUCOtzmV_Ev5bWYxR9KaDQxnR/view?usp=sharing
+
+
+RGBT-SOD.pth:https://drive.google.com/file/d/1ll0eFUw8s2haxRaUes214jL7dHNOgUxe/view?usp=sharing
+
+RGBD-COD.pthttps://drive.google.com/file/d/1YVBNjWjOUgceqrPUYtNaGmVN7MQpOslX/view?usp=sharing
+
+VCOD.pth：https://drive.google.com/file/d/1Xzrs_l6dQ1BELSWpHrzMVKKyG0kBRaDv/view?usp=sharing
 
 python test_Net.py
 This will evaluate the trained model on the test set and generate results.
