@@ -61,7 +61,7 @@ RGBD-SOD.pth:https://drive.google.com/file/d/1iZC3cSgpUCOtzmV_Ev5bWYxR9KaDQxnR/v
 
 RGBT-SOD.pth:https://drive.google.com/file/d/1ll0eFUw8s2haxRaUes214jL7dHNOgUxe/view?usp=sharing
 
-RGBD-COD.pthttps://drive.google.com/file/d/1YVBNjWjOUgceqrPUYtNaGmVN7MQpOslX/view?usp=sharing
+RGBD-COD.pth：https://drive.google.com/file/d/1YVBNjWjOUgceqrPUYtNaGmVN7MQpOslX/view?usp=sharing
 
 VCOD.pth：https://drive.google.com/file/d/1Xzrs_l6dQ1BELSWpHrzMVKKyG0kBRaDv/view?usp=sharing
 
