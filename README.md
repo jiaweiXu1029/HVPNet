@@ -50,7 +50,13 @@ Ensure that your environment is properly set up with the necessary dependencies 
 
 6. Testing
 For running inference and testing the model, use the following command:
+
+
+
 RGB-SOD.pth：https://drive.google.com/file/d/1zjmgbNCOmKfMzWEPSr5jxjwl2stfTThO/view?usp=sharing
+
+
+
 RGBD-SOD.pth:https://drive.google.com/file/d/1iZC3cSgpUCOtzmV_Ev5bWYxR9KaDQxnR/view?usp=sharing
 
 python test_Net.py
