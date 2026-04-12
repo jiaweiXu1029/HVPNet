@@ -1,5 +1,5 @@
 # HVPNet
-HVPNet: A Unified Bio-Inspired Network for General Salient and Camouflaged Object Detection
+HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection
  1. Model Selection
 Choose the appropriate model version based on your hardware capabilities and accuracy requirements:
 
